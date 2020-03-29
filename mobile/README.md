@@ -74,7 +74,7 @@ Add notes about how to use the system.
 
 ## ✍️ Autor <a name = "authors"></a>
 
-- [@christiantld](https://github.com/christiantld)
+- [@thepinguimtech](https://github.com/thepinguimtech)
 
 ## 🎉 Considerações finais <a name = "acknowledgement"></a>
 
